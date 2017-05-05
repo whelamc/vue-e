@@ -22,6 +22,8 @@ cd vue-e
 
 npm install 
 
+```
+
 # 开发环境
 npm run dev
 访问 http://localhost:8080/
